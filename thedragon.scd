@@ -6,7 +6,7 @@ s.reboot;
 // Server.killAll; // if needed
 
 // you'll need to download the following fonts, they should be available with the patch:
-// Curse of the Zombie, Slimespooky Outline, and CF Night of Terror PERSONAL, Apple symbols are also used and Zapf Dingbats is used a lot! Other than that, there shouldn't be any UGENS you don't have downloaded already, but I will update this later if I find out that I have somehow used non-native UGens as well. Have fun!
+// Curse of the Zombie, Slimespooky Outline, and CF Night of Terror PERSONAL, Apple symbols are also used and Zapf Dingbats is used a lot! Only one Ugen not stock, will need SC3Plugins.... Have fun!
 
 //THE DRAGON!!!!!!
 
